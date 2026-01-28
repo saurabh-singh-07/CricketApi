@@ -1,0 +1,1667 @@
+
+{
+    "players" : [
+        {
+            "id" : "1",
+            "name" : "Virat Kohli",
+            "fullName" : "Virat Kohli",
+            "height" : "5.9",
+            "country" : "India",
+            "career" : "2008-",
+            "dob": "05 Nov 1988, Delhi",
+            "role" : "Top Order Batter",
+            "battingStyle" : "Right-hand bat",
+            "bowlingStyle" : "Right-arm medium",
+            "profileImage" : "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Virat_Kohli_in_PMO_New_Delhi.jpg/500px-Virat_Kohli_in_PMO_New_Delhi.jpg",
+            "about" : "Virat Kohli (born 5 November 1988) is an Indian international cricketer and the former all-format captain of the Indian national cricket team. He is a right-handed batter and occasional right-arm medium pace bowler. Considered one of the greatest all-format batsmen in the history of cricket, he has been nicknamed the King, the Chase Master, and the Run Machine for his skills, records and ability to lead his team to victory. Kohli has the most centuries in ODIs and the second-most centuries in international cricket with 85 tons across all formats. He is also the leading run-scorer in the Indian Premier League Kohli is the most successful Test captain of India with most wins and 3 consecutive Test mace retainments. He is the only batter to earn 900+ rating points across all 3 formats.",
+            "state": {
+                "batting" : {
+                    "odis" : {
+                        "matchs" : "302",
+                        "innings" : "290",
+                        "runs" : "14181",
+                        "ballFaced" : "15192",
+                        "highest" : "183",
+                        "avg" : "57.88",
+                        "sr" : "93.35",
+                        "notOut" : "45",
+                        "fours" : "1325",
+                        "sixs" : "153",
+                        "fifty" : "74",
+                        "hundreds" : "51"
+                    },
+                    "tests" : {
+                        "matchs" : "123",
+                        "innings" : "210",
+                        "runs" : "9230",
+                        "ballFaced" : "16608",
+                        "highest" : "254",
+                        "avg" : "46.88",
+                        "sr" : "55.58",
+                        "notOut" : "13",
+                        "fours" : "1027",
+                        "sixs" : "30",
+                        "fifty" : "31",
+                        "hundreds" : "30"
+                    },
+                    "t20s" : {
+                        "matchs" : "125",
+                        "innings" : "117",
+                        "runs" : "4188",
+                        "ballFaced" : "3056",
+                        "highest" : "122",
+                        "avg" : "48.7",
+                        "sr" : "137.05",
+                        "notOut" : "31",
+                        "fours" : "369",
+                        "sixs" : "124",
+                        "fifty" : "38",
+                        "hundreds" : "1"
+                    },
+                    "ipl" : {
+                        "matchs" : "267",
+                        "innings" : "259",
+                        "runs" : "8661",
+                        "ballFaced" : "6519",
+                        "highest" : "133",
+                        "avg" : "39.58",
+                        "sr" : "132.85",
+                        "notOut" : "40",
+                        "fours" : "771",
+                        "sixs" : "291",
+                        "fifty" : "63",
+                        "hundreds" : "8"
+                    }
+                },
+                "bowling" : {
+                    "odis" : {
+                        "matchs" : "302",
+                        "innings" : "50",
+                        "wicket" : "5",
+                        "balls" : "662",
+                        "runs" : "680",
+                        "BB" : "1/13",
+                        "avg" : "136.0",
+                        "sr" : "132.4",
+                        "econ" : "6.16",
+                        "4w" : "0",
+                        "5w" : "0"
+                    },
+                    "test" : {
+                        "matchs" : "123",
+                        "innings" : "11",
+                        "wicket" : "0",
+                        "balls" : "175",
+                        "runs" : "84",
+                        "BB" : "0/0",
+                        "avg" : "0.0",
+                        "sr" : "0.0",
+                        "econ" : "2.88",
+                        "4w" : "0",
+                        "5w" : "0"
+                    },
+                    "t20s" : {
+                        "matchs" : "125",
+                        "innings" : "13",
+                        "wicket" : "4",
+                        "balls" : "152",
+                        "runs" : "204",
+                        "BB" : "1/13",
+                        "avg" : "51.0",
+                        "sr" : "38.4",
+                        "econ" : "8.05",
+                        "4w" : "0",
+                        "5w" : "0"
+                    },
+                    "ipl" : {
+                        "matchs" : "267",
+                        "innings" : "26",
+                        "wicket" : "4",
+                        "balls" : "251",
+                        "runs" : "368",
+                        "BB" : "2/25",
+                        "avg" : "92.0",
+                        "sr" : "62.74",
+                        "econ" : "8.8",
+                        "4w" : "0",
+                        "5w" : "0"
+                    }
+                },
+                "feilding" : {
+                    "odi" : {
+                        "catchs" : "161",
+                        "runOut" : "22",
+                        "stumping" : "0"
+                    },
+                    "test" : {
+                        "catchs" : "121",
+                        "runOut" : "4",
+                        "stumping" : "0"
+                    },
+                    "t20s" : {
+                        "catchs" : "54",
+                        "runOut" : "8",
+                        "stumping" : "0"
+                    },
+                    "ipl" : {
+                        "catchs" : "117",
+                        "runOut" : "8",
+                        "stumping" : "0"
+                    }
+                }
+            }
+
+        },
+        {
+            "id" : "2",
+            "name" : "Ajinkya rahane",
+            "fullName" : "Ajinkya Madhukar Rahane",
+            "age" : "37",
+            "country" : "India",
+            "career" : "2008-2023",
+            "dob": "06 june 1988, Ashwi-KD, Maharashtra",
+            "role" : "Top Order Batter",
+            "battingStyle" : "Right-hand bat",
+            "bowlingStyle" : "Right-arm medium",
+            "profileImage" : "https://assets.telegraphindia.com/telegraph/2023/Apr/1682402038_ajinkya-rahane.jpg",
+            "about" : "Ajinkya Rahane (born 6 June 1988) is an Indian cricketer and former captain and vice-captain of the Indian cricket team. He currently captains Kolkata Knight Riders in the Indian Premier League. He is the former captain of Mumbai. He plays primarily as a middle-order batsman in the Test format and as a top-order batsman in white-ball forms of the game. India lost only one match under his captaincy.Rahane made his first-class debut in 2007–08 Ranji Trophy season for Mumbai. He made his international debut in a Twenty20 International against England at Manchester in August 2011[1][2] and his Test debut in March 2013 against Australia. His first Test century came at the Basin Reserve, Wellington against New Zealand.[3] Under his captaincy, India won the 2020-21 Border–Gavaskar Trophy in Australia.[4]",
+            "state": {
+                "batting" : {
+                    "odis" : {
+                        "matchs" : "90",
+                        "innings" : "87",
+                        "runs" : "2962",
+                        "ballFaced" : "3767",
+                        "highest" : "111",
+                        "avg" : "35.26",
+                        "sr" : "78.63",
+                        "notOut" : "3",
+                        "fours" : "293",
+                        "sixs" : "33",
+                        "fifty" : "24",
+                        "hundreds" : "3"
+                    },
+                    "tests" : {
+                        "matchs" : "85",
+                        "innings" : "144",
+                        "runs" : "5077",
+                        "ballFaced" : "10256",
+                        "highest" : "188",
+                        "avg" : "38.46",
+                        "sr" : "49.06",
+                        "notOut" : "12",
+                        "fours" : "579",
+                        "sixs" : "35",
+                        "fifty" : "26",
+                        "hundreds" : "10"
+                    },
+                    "t20s" : {
+                        "matchs" : "20",
+                        "innings" : "20",
+                        "runs" : "375",
+                        "ballFaced" : "331",
+                        "highest" : "61",
+                        "avg" : "20.83",
+                        "sr" : "113.63",
+                        "notOut" : "2",
+                        "fours" : "32",
+                        "sixs" : "6",
+                        "fifty" : "1",
+                        "hundreds" : "0"
+                    },
+                    "ipl" : {
+                        "matchs" : "185",
+                        "innings" : "171",
+                        "runs" : "4642",
+                        "ballFaced" : "3761",
+                        "highest" : "105",
+                        "avg" : "30.14",
+                        "sr" : "123.42",
+                        "notOut" : "17",
+                        "fours" : "478",
+                        "sixs" : "103",
+                        "fifty" : "30",
+                        "hundreds" : "2"
+                    }
+                },
+                "bowling" : {
+                    "odis" : {
+                        "matchs" : "90",
+                        "innings" : "-",
+                        "wicket" : "-",
+                        "balls" : "-",
+                        "runs" : "-",
+                        "BB" : "-",
+                        "avg" : "-",
+                        "sr" : "-",
+                        "econ" : "-",
+                        "4w" : "-",
+                        "5w" : "-"
+                    },
+                    "test" : {
+                        "matchs" : "85",
+                        "innings" : "-",
+                        "wicket" : "-",
+                        "balls" : "-",
+                        "runs" : "-",
+                        "BB" : "-",
+                        "avg" : "-",
+                        "sr" : "-",
+                        "econ" : "-",
+                        "4w" : "-",
+                        "5w" : "-"
+                    },
+                    "t20s" : {
+                        "matchs" : "20",
+                        "innings" : "-",
+                        "wicket" : "-",
+                        "balls" : "-",
+                        "runs" : "-",
+                        "BB" : "-",
+                        "avg" : "-",
+                        "sr" : "-",
+                        "econ" : "-",
+                        "4w" : "-",
+                        "5w" : "-"
+                    },
+                    "ipl" : {
+                        "matchs" : "185",
+                        "innings" : "1",
+                        "wicket" : "1",
+                        "balls" : "6",
+                        "runs" : "5",
+                        "BB" : "1/5",
+                        "avg" : "5.00",
+                        "sr" : "5.0",
+                        "econ" : "5",
+                        "4w" : "0",
+                        "5w" : "0"
+                    }
+                },
+                "feilding" : {
+                    "odi" : {
+                        "catchs" : "48",
+                        "runOut" : "5",
+                        "stumping" : "0"
+                    },
+                    "test" : {
+                        "catchs" : "102",
+                        "runOut" : "2",
+                        "stumping" : "0"
+                    },
+                    "t20s" : {
+                        "catchs" : "16",
+                        "runOut" : "0",
+                        "stumping" : "0"
+                    },
+                    "ipl" : {
+                        "catchs" : "75",
+                        "runOut" : "11",
+                        "stumping" : "0"
+                    }
+                }
+            }
+
+        },
+        {
+            "id" : "3",
+            "name" : "Kl Rahul",
+            "fullName" : "Kannaur Lokesh Rahul",
+            "age" : "33",
+            "country" : "India",
+            "career" : "2014-",
+            "dob": "18 April 1992, Karnataka",
+            "role" : "WicketKeeper Batter",
+            "battingStyle" : "Right-hand bat",
+            "bowlingStyle" : "Right-arm spin",
+            "profileImage" : "https://documents.bcci.tv/resizedimageskirti/1125_compress.png",
+            "about" : "Kannaur Lokesh Rahul ( born 18 April 1992) is an Indian international cricketer. He plays for the Indian  national team as a right-handed wicket-keeper batter. Rahul represents Karnataka in domestic cricket and Delhi Capitals in the Indian Premier League.Rahul made his international debut in 2014 against Australia in the Boxing Day Test in Melbourne. Two years after his Test debut, Rahul made his One-Day International debut in 2016 against Zimbabwe, where he scored his first century by hitting a six on the last ball to reach 100* (115) from 94 (114), which was also the only six of the entire match. Rahul is the first and only Indian cricketer to score an ODI century on his debut. On the same tour, he made his T20I debut.",
+            "state": {
+                "batting" : {
+                    "odis" : {
+                        "matchs" : "94",
+                        "innings" : "86",
+                        "runs" : "3360",
+                        "ballFaced" : "3715",
+                        "highest" : "112",
+                        "avg" : "50.90",
+                        "sr" : "90.44",
+                        "notOut" : "20",
+                        "fours" : "259",
+                        "sixs" : "76",
+                        "fifty" : "20",
+                        "hundreds" : "8"
+                    },
+                    "tests" : {
+                        "matchs" : "67",
+                        "innings" : "118",
+                        "runs" : "4053",
+                        "ballFaced" : "7810",
+                        "highest" : "199",
+                        "avg" : "35.41",
+                        "sr" : "52.37",
+                        "notOut" : "4",
+                        "fours" : "456",
+                        "sixs" : "26",
+                        "fifty" : "19",
+                        "hundreds" : "11"
+                    },
+                    "t20s" : {
+                        "matchs" : "72",
+                        "innings" : "68",
+                        "runs" : "2265",
+                        "ballFaced" : "1628",
+                        "highest" : "110",
+                        "avg" : "37.75",
+                        "sr" : "139.12",
+                        "notOut" : "8",
+                        "fours" : "191",
+                        "sixs" : "99",
+                        "fifty" : "22",
+                        "hundreds" : "2"
+                    },
+                    "ipl" : {
+                        "matchs" : "145",
+                        "innings" : "136",
+                        "runs" : "5222",
+                        "ballFaced" : "3839",
+                        "highest" : "132",
+                        "avg" : "46.14",
+                        "sr" : "136.42",
+                        "notOut" : "23",
+                        "fours" : "452",
+                        "sixs" : "208",
+                        "fifty" : "40",
+                        "hundreds" : "5"
+                    }
+                },
+                "bowling" : {
+                    "odis" : {
+                        "matchs" : "85",
+                        "innings" : "-",
+                        "wicket" : "-",
+                        "balls" : "-",
+                        "runs" : "-",
+                        "BB" : "-",
+                        "avg" : "-",
+                        "sr" : "-",
+                        "econ" : "-",
+                        "4w" : "-",
+                        "5w" : "-"
+                    },
+                    "test" : {
+                        "matchs" : "67",
+                        "innings" : "-",
+                        "wicket" : "-",
+                        "balls" : "-",
+                        "runs" : "-",
+                        "BB" : "-",
+                        "avg" : "-",
+                        "sr" : "-",
+                        "econ" : "-",
+                        "4w" : "-",
+                        "5w" : "-"
+                    },
+                    "t20s" : {
+                        "matchs" : "72",
+                        "innings" : "-",
+                        "wicket" : "-",
+                        "balls" : "-",
+                        "runs" : "-",
+                        "BB" : "-",
+                        "avg" : "-",
+                        "sr" : "-",
+                        "econ" : "-",
+                        "4w" : "-",
+                        "5w" : "-"
+                    },
+                    "ipl" : {
+                        "matchs" : "145",
+                        "innings" : "-",
+                        "wicket" : "-",
+                        "balls" : "-",
+                        "runs" : "-",
+                        "BB" : "-",
+                        "avg" : "-",
+                        "sr" : "-",
+                        "econ" : "-",
+                        "4w" : "-",
+                        "5w" : "-"
+                    }
+                },
+                "feilding" : {
+                    "odi" : {
+                        "catchs" : "71",
+                        "runOut" : "5",
+                        "stumping" : "8"
+                    },
+                    "test" : {
+                        "catchs" : "80",
+                        "runOut" : "3",
+                        "stumping" : "0"
+                    },
+                    "t20s" : {
+                        "catchs" : "23",
+                        "runOut" : "4",
+                        "stumping" : "1"
+                    },
+                    "ipl" : {
+                        "catchs" : "81",
+                        "runOut" : "6",
+                        "stumping" : "7"
+                    }
+                }
+            }
+
+        },
+        {
+            "id" : "4",
+            "name" : "Ms Dhoni",
+            "fullName" : "Mahendra Singh Dhoni",
+            "age" : "44",
+            "country" : "India",
+            "career" : "2004-2019",
+            "dob": "07-07-1981, Jharkhand",
+            "role" : "WicketKeeper Batter",
+            "battingStyle" : "Right-hand bat",
+            "bowlingStyle" : "Right-arm medium",
+            "profileImage" : "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/MS_Dhoni_%28Prabhav_%2723_-_RiGI_2023%29.jpg/500px-MS_Dhoni_%28Prabhav_%2723_-_RiGI_2023%29.jpg",
+            "about" : "Mahendra Singh Dhoni (born 7 July 1981) is an Indian professional cricketer who plays as a right-handed batter and a wicket-keeper. Widely regarded as one of the most prolific wicket-keeper batsmen and captains, he represented the Indian cricket team and was the captain of the side in limited overs formats from 2007 to 2017 and in Test cricket from 2008 to 2014. Dhoni has captained the most international matches and is the most successful Indian captain. He has led India to victory in the 2007 ICC World Twenty20, the 2011 Cricket World Cup, and the 2013 ICC Champions Trophy, being the only captain to win three different limited overs ICC tournaments. He also led the teams that won the Asia Cup in 2010 and 2016, and he was a member of the title winning squad in 2018.Born in Ranchi, Dhoni made his first class debut for Bihar in 1999. He made his debut for the Indian cricket team on 23 December 2004 in an ODI against Bangladesh and played his first test a year later against Sri Lanka. In 2007, he became the captain of the ODI side before taking over in all formats by 2008. Dhoni retired from Test cricket in 2014 but continued playing in limited overs cricket till 2019. He has scored 17,266 runs in international cricket including 10,000 plus runs at an average of more than 50 in ODIs.",
+            "state": {
+                "batting" : {
+                    "odis" : {
+                        "matchs" : "350",
+                        "innings" : "297",
+                        "runs" : "10773",
+                        "ballFaced" : "12303",
+                        "highest" : "183",
+                        "avg" : "50.58",
+                        "sr" : "87.44",
+                        "notOut" : "84",
+                        "fours" : "826",
+                        "sixs" : "229",
+                        "fifty" : "73",
+                        "hundreds" : "10"
+                    },
+                    "tests" : {
+                        "matchs" : "90",
+                        "innings" : "144",
+                        "runs" : "4876",
+                        "ballFaced" : "8248",
+                        "highest" : "224",
+                        "avg" : "38.41",
+                        "sr" : "59.12",
+                        "notOut" : "16",
+                        "fours" : "544",
+                        "sixs" : "78",
+                        "fifty" : "33",
+                        "hundreds" : "6"
+                    },
+                    "t20s" : {
+                        "matchs" : "98",
+                        "innings" : "85",
+                        "runs" : "1617",
+                        "ballFaced" : "1282",
+                        "highest" : "56",
+                        "avg" : "37.60",
+                        "sr" : "126.12",
+                        "notOut" : "42",
+                        "fours" : "116",
+                        "sixs" : "52",
+                        "fifty" : "2",
+                        "hundreds" : "0"
+                    },
+                    "ipl" : {
+                        "matchs" : "278",
+                        "innings" : "278",
+                        "runs" : "5439",
+                        "ballFaced" : "3939",
+                        "highest" : "84",
+                        "avg" : "38.31",
+                        "sr" : "137.42",
+                        "notOut" : "100",
+                        "fours" : "375",
+                        "sixs" : "264",
+                        "fifty" : "24",
+                        "hundreds" : "5"
+                    }
+                },
+                "bowling" : {
+                    "odis" : {
+                        "matchs" : "350",
+                        "innings" : "2",
+                        "wicket" : "1",
+                        "balls" : "36",
+                        "runs" : "31",
+                        "BB" : "1/14",
+                        "avg" : "31.0",
+                        "sr" : "36.0",
+                        "econ" : "5.17",
+                        "4w" : "0",
+                        "5w" : "0"
+                    },
+                    "test" : {
+                        "matchs" : "90",
+                        "innings" : "7",
+                        "wicket" : "0",
+                        "balls" : "96",
+                        "runs" : "67",
+                        "BB" : "0/1",
+                        "avg" : "0.00",
+                        "sr" : "0.0",
+                        "econ" : "4.19",
+                        "4w" : "-",
+                        "5w" : "-"
+                    },
+                    "t20s" : {
+                        "matchs" : "90",
+                        "innings" : "-",
+                        "wicket" : "-",
+                        "balls" : "-",
+                        "runs" : "-",
+                        "BB" : "-",
+                        "avg" : "-",
+                        "sr" : "-",
+                        "econ" : "-",
+                        "4w" : "-",
+                        "5w" : "-"
+                    },
+                    "ipl" : {
+                        "matchs" : "278",
+                        "innings" : "-",
+                        "wicket" : "-",
+                        "balls" : "-",
+                        "runs" : "-",
+                        "BB" : "-",
+                        "avg" : "-",
+                        "sr" : "-",
+                        "econ" : "-",
+                        "4w" : "-",
+                        "5w" : "-"
+                    }
+                },
+                "feilding" : {
+                    "odi" : {
+                        "catchs" : "256",
+                        "runOut" : "3",
+                        "stumping" : "38"
+                    },
+                    "test" : {
+                        "catchs" : "321",
+                        "runOut" : "22",
+                        "stumping" : "123"
+                    },
+                    "t20s" : {
+                        "catchs" : "57",
+                        "runOut" : "8",
+                        "stumping" : "34"
+                    },
+                    "ipl" : {
+                        "catchs" : "158",
+                        "runOut" : "25",
+                        "stumping" : "47"
+                    }
+                }
+            }
+
+        },
+        {
+            "id" : "5",
+            "name" : "Rohit Sharma",
+            "fullName" : "Rohit Gurunath Sharma",
+            "age" : "38",
+            "country" : "India",
+            "career" : "2007-",
+            "dob": "30 April 1987, Nagpur, Maharashtra",
+            "role" : "Top Order Batter",
+            "battingStyle" : "Right-hand bat",
+            "bowlingStyle" : "Right-arm offbreak",
+            "profileImage" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Prime_Minister_Of_Bharat_Shri_Narendra_Damodardas_Modi_with_Shri_Rohit_Gurunath_Sharma_%28Cropped%29.jpg/500px-Prime_Minister_Of_Bharat_Shri_Narendra_Damodardas_Modi_with_Shri_Rohit_Gurunath_Sharma_%28Cropped%29.jpg",
+            "about" : "Rohit Gurunath Sharma (born 30 April 1987) is an Indian international cricketer and the former captain of the India national cricket team in all formats of the game. He is a right-handed top-order batter. He represents Mumbai in domestic cricket and Mumbai Indians in the Indian Premier League. Sharma was a member of the teams that won the 2007 T20 World Cup, the 2013 ICC Champions Trophy and was the winning captain of the 2024 T20 World Cup and the 2025 ICC Champions Trophy. Sharma holds several batting records which include most runs in T20 Internationals, most sixes in international cricket, most double centuries in ODI cricket (3), most centuries at Cricket World Cups (7) and joint most hundreds in Twenty20 Internationals (5). He also holds the world record for the highest individual score (264) in a One Day International (ODI) and also holds the record for scoring most hundreds (five) in a single Cricket World Cup, for which he won the ICC Men's ODI Cricketer of the Year award in 2019. He is the first and only captain to lead a team in all[b] ICC tournament finals.",
+            "state": {
+                "batting" : {
+                    "odis" : {
+                        "matchs" : "273",
+                        "innings" : "265",
+                        "runs" : "11168",
+                        "ballFaced" : "12034",
+                        "highest" : "264",
+                        "avg" : "48.77",
+                        "sr" : "92.44",
+                        "notOut" : "36",
+                        "fours" : "1044",
+                        "sixs" : "344",
+                        "fifty" : "58",
+                        "hundreds" : "32"
+                    },
+                    "tests" : {
+                        "matchs" : "67",
+                        "innings" : "116",
+                        "runs" : "4301",
+                        "ballFaced" : "7538",
+                        "highest" : "212",
+                        "avg" : "40.41",
+                        "sr" : "57.37",
+                        "notOut" : "10",
+                        "fours" : "473",
+                        "sixs" : "88",
+                        "fifty" : "19",
+                        "hundreds" : "12"
+                    },
+                    "t20s" : {
+                        "matchs" : "159",
+                        "innings" : "151",
+                        "runs" : "4231",
+                        "ballFaced" : "3003",
+                        "highest" : "121",
+                        "avg" : "31.41",
+                        "sr" : "140.90",
+                        "notOut" : "16",
+                        "fours" : "383",
+                        "sixs" : "205",
+                        "fifty" : "32",
+                        "hundreds" : "5"
+                    },
+                    "ipl" : {
+                        "matchs" : "272",
+                        "innings" : "267",
+                        "runs" : "7046",
+                        "ballFaced" : "5334",
+                        "highest" : "109",
+                        "avg" : "29.73",
+                        "sr" : "132.10",
+                        "notOut" : "30",
+                        "fours" : "640",
+                        "sixs" : "302",
+                        "fifty" : "47",
+                        "hundreds" : "2"
+                    }
+                },
+                "bowling" : {
+                    "odis" : {
+                        "matchs" : "273",
+                        "innings" : "40",
+                        "wicket" : "9",
+                        "balls" : "610",
+                        "runs" : "533",
+                        "BB" : "2/27",
+                        "avg" : "59.22",
+                        "sr" : "67.78",
+                        "econ" : "5.24",
+                        "4w" : "0",
+                        "5w" : "0"
+                    },
+                    "test" : {
+                        "matchs" : "67",
+                        "innings" : "16",
+                        "wicket" : "2",
+                        "balls" : "383",
+                        "runs" : "224",
+                        "BB" : "1/26",
+                        "avg" : "112.0",
+                        "sr" : "191.5",
+                        "econ" : "3.51",
+                        "4w" : "0",
+                        "5w" : "0"
+                    },
+                    "t20s" : {
+                        "matchs" : "159",
+                        "innings" : "9",
+                        "wicket" : "1",
+                        "balls" : "68",
+                        "runs" : "113",
+                        "BB" : "1/22",
+                        "avg" : "113.0",
+                        "sr" : "68.9",
+                        "econ" : "9.97",
+                        "4w" : "0",
+                        "5w" : "0"
+                    },
+                    "ipl" : {
+                        "matchs" : "272",
+                        "innings" : "32",
+                        "wicket" : "15",
+                        "balls" : "339",
+                        "runs" : "453",
+                        "BB" : "4/6",
+                        "avg" : "30.2",
+                        "sr" : "22.3",
+                        "econ" : "8.02",
+                        "4w" : "1",
+                        "5w" : "0"
+                    }
+                },
+                "feilding" : {
+                    "odi" : {
+                        "catchs" : "97",
+                        "runOut" : "16",
+                        "stumping" : "0"
+                    },
+                    "test" : {
+                        "catchs" : "68",
+                        "runOut" : "1",
+                        "stumping" : "0"
+                    },
+                    "t20s" : {
+                        "catchs" : "65",
+                        "runOut" : "5",
+                        "stumping" : "0"
+                    },
+                    "ipl" : {
+                        "catchs" : "102",
+                        "runOut" : "10",
+                        "stumping" : "0"
+                    }
+                }
+            }
+
+        },
+        {
+            "id" : "6",
+            "name" : "Bhuvneshwar Kumar",
+            "fullName" : "Bhuvneshwar Kumar Singh",
+            "age" : "35",
+            "country" : "India",
+            "career" : "2012-2022",
+            "dob": "5 Feb 1990, Uttar Pradesh",
+            "role" : "Bowler",
+            "battingStyle" : "Right-hand bat",
+            "bowlingStyle" : "Right-arm medium fast",
+            "profileImage" : "https://i.ytimg.com/vi/xi_ydCgyWHM/oar2.jpg?sqp=-oaymwEYCNAFENAFSFqQAgHyq4qpAwcIARUAAIhC&rs=AOn4CLBM72_qwtdZsh1aCKC5KMEyP7nm9g",
+            "about" : "Bhuvneshwar Kumar Singh (born 5 February 1990) is an Indian cricketer who has played for the Indian cricket team in all three formats of the game. He plays for Royal Challengers Bangalore in the Indian Premier League and Uttar Pradesh in domestic cricket. A right-arm medium bowler, he is known for his ability to effectively swing the ball both ways at will. Kumar was a member of the India team that won the 2013 ICC Champions Trophy. He is the first bowler to win the IPL Purple Cap in two consecutive seasons.He made his international debut in December 2012 against Pakistan, taking three wickets in a Twenty20 International (T20I), including one in his first over. He went on to make his One Day International (ODI) debut in the series which followed, where he took a wicket on his first ball. He is the first Indian bowler to take a five-wicket haul in Test cricket, ODIs and T20Is. He is the only bowler whose first wicket in all three formats of the game was bowled. He was named as ICC Men's Player of the Month award for March 2021. During the 2022 Asia Cup, he was the highest wicket taker with 11 wickets.",
+            "state": {
+                "batting" : {
+                    "odis" : {
+                        "matchs" : "121",
+                        "innings" : "55",
+                        "runs" : "552",
+                        "ballFaced" : "747",
+                        "highest" : "53*",
+                        "avg" : "14.41",
+                        "sr" : "73.89",
+                        "notOut" : "16",
+                        "fours" : "46",
+                        "sixs" : "8",
+                        "fifty" : "1",
+                        "hundreds" : "0"
+                    },
+                    "tests" : {
+                         "matchs" : "21",
+                        "innings" : "29",
+                        "runs" : "552",
+                        "ballFaced" : "1225",
+                        "highest" : "63*",
+                        "avg" : "22.90",
+                        "sr" : "45.44",
+                        "notOut" : "4",
+                        "fours" : "77",
+                        "sixs" : "1",
+                        "fifty" : "3",
+                        "hundreds" : "0"
+                    },
+                    "t20s" : {
+                        "matchs" : "87",
+                        "innings" : "21",
+                        "runs" : "67",
+                        "ballFaced" : "94",
+                        "highest" : "16",
+                        "avg" : "8.37",
+                        "sr" : "71.27",
+                        "notOut" : "13",
+                        "fours" : "0",
+                        "sixs" : "0",
+                        "fifty" : "0",
+                        "hundreds" : "0"
+                    },
+                    "ipl" : {
+                        "matchs" : "190",
+                        "innings" : "74",
+                        "runs" : "320",
+                        "ballFaced" : "351",
+                        "highest" : "27",
+                        "avg" : "8.44",
+                        "sr" : "8.42",
+                        "notOut" : "36",
+                        "fours" : "31",
+                        "sixs" : "3",
+                        "fifty" : "0",
+                        "hundreds" : "0"
+                    }
+                },
+                "bowling" : {
+                    "odis" : {
+                        "matchs" : "121",
+                        "innings" : "120",
+                        "wicket" : "141",
+                        "balls" : "5847",
+                        "runs" : "4951",
+                        "BB" : "5/42",
+                        "avg" : "35.11",
+                        "sr" : "41.4",
+                        "econ" : "5.08",
+                        "4w" : "4",
+                        "5w" : "1"
+                    },
+                    "test" : {
+                        "matchs" : "21",
+                        "innings" : "37",
+                        "wicket" : "63",
+                        "balls" : "3348",
+                        "runs" : "1644",
+                        "BB" : "6/82",
+                        "avg" : "26.09",
+                        "sr" : "53.1",
+                        "econ" : "2.94",
+                        "4w" : "3",
+                        "5w" : "4"
+                    },
+                    "t20s" : {
+                        "matchs" : "87",
+                        "innings" : "86",
+                        "wicket" : "90",
+                        "balls" : "1791",
+                        "runs" : "2079",
+                        "BB" : "5/4",
+                        "avg" : "23.10",
+                        "sr" : "19.9",
+                        "econ" : "6.96",
+                        "4w" : "3",
+                        "5w" : "2"
+                    },
+                    "ipl" : {
+                        "matchs" : "190",
+                        "innings" : "190",
+                        "wicket" : "198",
+                        "balls" : "4222",
+                        "runs" : "5412",
+                        "BB" : "5/19",
+                        "avg" : "27.33",
+                        "sr" : "21.3",
+                        "econ" : "7.69",
+                        "4w" : "2",
+                        "5w" : "2"
+                    }
+                },
+                "feilding" : {
+                    "odi" : {
+                        "catchs" : "29",
+                        "runOut" : "3",
+                        "stumping" : "0"
+                    },
+                    "test" : {
+                        "catchs" : "8",
+                        "runOut" : "0",
+                        "stumping" : "0"
+                    },
+                    "t20s" : {
+                        "catchs" : "15",
+                        "runOut" : "2",
+                        "stumping" : "0"
+                    },
+                    "ipl" : {
+                        "catchs" : "36",
+                        "runOut" : "6",
+                        "stumping" : "0"
+                    }
+                }
+            }
+
+        },
+        {
+            "id" : "7",
+            "name" : "Jasprit Bumrah",
+            "fullName" : "Jasprit jasbirsingh Bumrah",
+            "age" : "32",
+            "country" : "India",
+            "career" : "2016-",
+            "dob": "5 December 1993, Ahmedabad",
+            "role" : "Bowler",
+            "battingStyle" : "Right-hand bat",
+            "bowlingStyle" : "Right-arm fast",
+            "profileImage" : "https://tse3.mm.bing.net/th/id/OIP.F9zsrq-Oo-ujonQI8QQlRAHaJQ?pid=Api&P=0&h=180",
+            "about" : "Jasprit Jasbirsingh Bumrah ( born 6 December 1993) is an Indian cricketer who plays for the Indian national team in all three formats of the game and has captained India in Tests and T20Is. He is widely regarded as the world's best active all-format pace bowler, and one of the best fast bowlers of all time. Bumrah is the first bowler to attain the number one ranking in the ICC Men's Player Rankings across all three formats, and the first Indian bowler to take 100 wickets in each format. He represents Gujarat in domestic cricket and Mumbai Indians in the Indian Premier League. Among Indian fast bowlers, he's the fastest to 200 Test wickets and the second fastest to 100 ODI wickets. He was a crucial member of the Indian team that won the 2024 T20 World Cup, where he was named the Player of the Tournament for taking 15 wickets with an average economy of 4.17.",
+            "state": {
+                "batting" : {
+                    "odis" : {
+                        "matchs" : "89",
+                        "innings" : "26",
+                        "runs" : "91",
+                        "ballFaced" : "159",
+                        "highest" : "16",
+                        "avg" : "7.58",
+                        "sr" : "57.23",
+                        "notOut" : "14",
+                        "fours" : "10",
+                        "sixs" : "1",
+                        "fifty" : "0",
+                        "hundreds" : "0"
+                    },
+                    "tests" : {
+                        "matchs" : "52",
+                        "innings" : "78",
+                        "runs" : "348",
+                        "ballFaced" : "843",
+                        "highest" : "34*",
+                        "avg" : "6.56",
+                        "sr" : "41.24",
+                        "notOut" : "25",
+                        "fours" : "38",
+                        "sixs" : "11",
+                        "fifty" : "0",
+                        "hundreds" : "0"
+                    },
+                    "t20s" : {
+                        "matchs" : "85",
+                        "innings" : "10",
+                        "runs" : "8",
+                        "ballFaced" : "15",
+                        "highest" : "7",
+                        "avg" : "2.00",
+                        "sr" : "53.27",
+                        "notOut" : "6",
+                        "fours" : "1",
+                        "sixs" : "0",
+                        "fifty" : "0",
+                        "hundreds" : "0"
+                    },
+                    "ipl" : {
+                        "matchs" : "145",
+                        "innings" : "31",
+                        "runs" : "68",
+                        "ballFaced" : "79",
+                        "highest" : "16",
+                        "avg" : "9.44",
+                        "sr" : "86.07",
+                        "notOut" : "24",
+                        "fours" : "5",
+                        "sixs" : "1",
+                        "fifty" : "0",
+                        "hundreds" : "0"
+                    }
+                },
+                "bowling" : {
+                    "odis" : {
+                        "matchs" : "89",
+                        "innings" : "88",
+                        "wicket" : "149",
+                        "balls" : "4580",
+                        "runs" : "3509",
+                        "BB" : "6/19",
+                        "avg" : "23.55",
+                        "sr" : "30.7",
+                        "econ" : "4.59",
+                        "4w" : "6",
+                        "5w" : "2"
+                    },
+                    "test" : {
+                        "matchs" : "52",
+                        "innings" : "99",
+                        "wicket" : "234",
+                        "balls" : "10031",
+                        "runs" : "4631",
+                        "BB" : "6/27",
+                        "avg" : "19.79",
+                        "sr" : "42.4",
+                        "econ" : "2.77",
+                        "4w" : "7",
+                        "5w" : "16"
+                    },
+                    "t20s" : {
+                        "matchs" : "85",
+                        "innings" : "82",
+                        "wicket" : "106",
+                        "balls" : "1798",
+                        "runs" : "1918",
+                        "BB" : "3/7",
+                        "avg" : "21.10",
+                        "sr" : "16.9",
+                        "econ" : "6.40",
+                        "4w" : "0",
+                        "5w" : "0"
+                    },
+                    "ipl" : {
+                        "matchs" : "145",
+                        "innings" : "145",
+                        "wicket" : "183",
+                        "balls" : "3337",
+                        "runs" : "4031",
+                        "BB" : "5/10",
+                        "avg" : "22.02",
+                        "sr" : "18.3",
+                        "econ" : "7.24",
+                        "4w" : "3",
+                        "5w" : "2"
+                    }
+                },
+                "feilding" : {
+                    "odi" : {
+                        "catchs" : "18",
+                        "runOut" : "5",
+                        "stumping" : "0"
+                    },
+                    "test" : {
+                        "catchs" : "17",
+                        "runOut" : "0",
+                        "stumping" : "0"
+                    },
+                    "t20s" : {
+                        "catchs" : "12",
+                        "runOut" : "2",
+                        "stumping" : "0"
+                    },
+                    "ipl" : {
+                        "catchs" : "18",
+                        "runOut" : "6",
+                        "stumping" : "0"
+                    }
+                }
+            }
+
+        },
+        {
+            "id" : "8",
+            "name" : "Ravindra Jadeja",
+            "fullName" : "Ravindrasinh Anirudhsinh Jadeja",
+            "age" : "37",
+            "country" : "India",
+            "career" : "2009-",
+            "dob": "6 December 1988, Saurashtra",
+            "role" : "Allrounder",
+            "battingStyle" : "Left-hand bat",
+            "bowlingStyle" : "slow Left-arm Orthodox",
+            "profileImage" : "https://thefederal.com/h-upload/2024/01/28/428348-ravindra-jadeja-india-vs-england.webp",
+            "about" : "Ravindrasinh Anirudhsinh Jadeja (born 6 December 1988) is an Indian cricketer who represents the India national team currently in ODI and Test formats. He is an all-rounder, who bats left-handed and bowls left-arm orthodox spin. He is widely regarded as one of the greatest all-rounders and among the finest fielders of his generation. He represents Saurashtra in domestic cricket and Rajasthan Royals in the Indian Premier League. Jadeja was a crucial member of the Indian teams that won the 2013 and 2025 ICC Champions Trophy, becoming leading wicket-taker and player of the final in the former and hitting the winning boundary in the latter final. He was also a part of the Indian squad that won the 2024 ICC T20 World Cup, after which he announced his retirement from T20Is.Jadeja was vice-captain of the Indian U-19 cricket team that won the World Cup in Malaysia in 2008, under the captaincy of former Indian captain Virat Kohli. He made his ODI debut against Sri Lanka on 8 February 2009 and scored an unbeaten 60 off 77 balls in that match. However, his Test debut came almost four years later, on 13 December 2012, against England at Nagpur.",
+            "state": {
+                "batting" : {
+                    "odis" : {
+                        "matchs" : "210",
+                        "innings" : "142",
+                        "runs" : "2905",
+                        "ballFaced" : "3396",
+                        "highest" : "87",
+                        "avg" : "32.27",
+                        "sr" : "85.54",
+                        "notOut" : "52",
+                        "fours" : "210",
+                        "sixs" : "55",
+                        "fifty" : "13",
+                        "hundreds" : "0"
+                    },
+                    "tests" : {
+                        "matchs" : "89",
+                        "innings" : "133",
+                        "runs" : "4095",
+                        "ballFaced" : "7389",
+                        "highest" : "175",
+                        "avg" : "38.27",
+                        "sr" : "55.42",
+                        "notOut" : "26",
+                        "fours" : "398",
+                        "sixs" : "82",
+                        "fifty" : "28",
+                        "hundreds" : "6"
+                    },
+                    "t20s" : {
+                        "matchs" : "74",
+                        "innings" : "41",
+                        "runs" : "515",
+                        "ballFaced" : "405",
+                        "highest" : "46",
+                        "avg" : "21.45",
+                        "sr" : "127.27",
+                        "notOut" : "17",
+                        "fours" : "39",
+                        "sixs" : "14",
+                        "fifty" : "0",
+                        "hundreds" : "0"
+                    },
+                    "ipl" : {
+                        "matchs" : "254",
+                        "innings" : "198",
+                        "runs" : "3260",
+                        "ballFaced" : "2502",
+                        "highest" : "77",
+                        "avg" : "27.86",
+                        "sr" : "130.29",
+                        "notOut" : "81",
+                        "fours" : "240",
+                        "sixs" : "117",
+                        "fifty" : "5",
+                        "hundreds" : "0"
+                    }
+                },
+                "bowling" : {
+                    "odis" : {
+                        "matchs" : "210",
+                        "innings" : "202",
+                        "wicket" : "232",
+                        "balls" : "10404",
+                        "runs" : "8478",
+                        "BB" : "5/33",
+                        "avg" : "36.55",
+                        "sr" : "44.7",
+                        "econ" : "4.88",
+                        "4w" : "7",
+                        "5w" : "2"
+                    },
+                    "test" : {
+                        "matchs" : "89",
+                        "innings" : "167",
+                        "wicket" : "348",
+                        "balls" : "20241",
+                        "runs" : "8741",
+                        "BB" : "7/42",
+                        "avg" : "25.11",
+                        "sr" : "58.1",
+                        "econ" : "2.59",
+                        "4w" : "17",
+                        "5w" : "15"
+                    },
+                    "t20s" : {
+                        "matchs" : "74",
+                        "innings" : "71",
+                        "wicket" : "54",
+                        "balls" : "1356",
+                        "runs" : "1617",
+                        "BB" : "3/15",
+                        "avg" : "29.10",
+                        "sr" : "25.9",
+                        "econ" : "7.13",
+                        "4w" : "0",
+                        "5w" : "0"
+                    },
+                    "ipl" : {
+                        "matchs" : "254",
+                        "innings" : "225",
+                        "wicket" : "170",
+                        "balls" : "4056",
+                        "runs" : "5188",
+                        "BB" : "5/16",
+                        "avg" : "30.51",
+                        "sr" : "23.8",
+                        "econ" : "7.67",
+                        "4w" : "3",
+                        "5w" : "1"
+                    }
+                },
+                "feilding" : {
+                    "odi" : {
+                        "catchs" : "79",
+                        "runOut" : "22",
+                        "stumping" : "0"
+                    },
+                    "test" : {
+                        "catchs" : "49",
+                        "runOut" : "8",
+                        "stumping" : "0"
+                    },
+                    "t20s" : {
+                        "catchs" : "28",
+                        "runOut" : "10",
+                        "stumping" : "0"
+                    },
+                    "ipl" : {
+                        "catchs" : "109",
+                        "runOut" : "25",
+                        "stumping" : "0"
+                    }
+                }
+            }
+
+        },
+        {
+            "id" : "9",
+            "name" : "Ravichandran Ashwin",
+            "fullName" : "Ravichandran Ashwin",
+            "age" : "39",
+            "country" : "India",
+            "career" : "2010-2024",
+            "dob": "17 September 1986, Tamil Nadu",
+            "role" : "Allrounder",
+            "battingStyle" : "Right-hand bat",
+            "bowlingStyle" : "Right-arm offbreak",
+            "profileImage" : "https://api.bdcrictime.com/ravichandran-ashwin-03_01_2022.jpg",
+            "about" : "Ravichandran Ashwin (born 17 September 1986) is an Indian cricketer. He is a right-arm off spin bowler and a lower order batter. Widely regarded as one of the most prolific spinners of all time, he represented the Indian cricket team and was part of the Indian team that won the 2011 Cricket World Cup and the 2013 Champions Trophy. He represented Tamil Nadu and South Zone in domestic cricket.Ashwin has taken more than 500 wickets in Tests and was the fastest bowler to reach 300 test wickets in terms of number of innings. He has won eleven Man of the Series awards in Tests, which is the most for any cricketer, along with Muttiah Muralitharan. As an all-rounder in Test cricket, he bats down the order, has scored six Test centuries and is one of the only three players to have scored 3000 runs and taken 500 wickets in Tests. He had been the highest-ranked bowler in the ICC men's player rankings multiple times, and holds the record for the second highest rating points by an Indian bowler ever in Test cricket.",
+            "state": {
+                "batting" : {
+                    "odis" : {
+                        "matchs" : "116",
+                        "innings" : "63",
+                        "runs" : "707",
+                        "ballFaced" : "813",
+                        "highest" : "65",
+                        "avg" : "16.44",
+                        "sr" : "86.54",
+                        "notOut" : "20",
+                        "fours" : "60",
+                        "sixs" : "7",
+                        "fifty" : "1",
+                        "hundreds" : "0"
+                    },
+                    "tests" : {
+                        "matchs" : "106",
+                        "innings" : "151",
+                        "runs" : "3503",
+                        "ballFaced" : "6423",
+                        "highest" : "124",
+                        "avg" : "25.7",
+                        "sr" : "54.42",
+                        "notOut" : "15",
+                        "fours" : "399",
+                        "sixs" : "23",
+                        "fifty" : "14",
+                        "hundreds" : "6"
+                    },
+                    "t20s" : {
+                        "matchs" : "65",
+                        "innings" : "19",
+                        "runs" : "184",
+                        "ballFaced" : "160",
+                        "highest" : "31",
+                        "avg" : "26.28",
+                        "sr" : "114.99",
+                        "notOut" : "12",
+                        "fours" : "17",
+                        "sixs" : "4",
+                        "fifty" : "0",
+                        "hundreds" : "0"
+                    },
+                    "ipl" : {
+                        "matchs" : "221",
+                        "innings" : "98",
+                        "runs" : "833",
+                        "ballFaced" : "705",
+                        "highest" : "50",
+                        "avg" : "13.01",
+                        "sr" : "118.15",
+                        "notOut" : "34",
+                        "fours" : "64",
+                        "sixs" : "29",
+                        "fifty" : "1",
+                        "hundreds" : "0"
+                    }
+                },
+                "bowling" : {
+                    "odis" : {
+                        "matchs" : "116",
+                        "innings" : "114",
+                        "wicket" : "156",
+                        "balls" : "6303",
+                        "runs" : "5180",
+                        "BB" : "4/25",
+                        "avg" : "33.20",
+                        "sr" : "40.4",
+                        "econ" : "4.93",
+                        "4w" : "1",
+                        "5w" : "0"
+                    },
+                    "test" : {
+                        "matchs" : "106",
+                        "innings" : "200",
+                        "wicket" : "537",
+                        "balls" : "27246",
+                        "runs" : "12891",
+                        "BB" : "7/59",
+                        "avg" : "24.00",
+                        "sr" : "50.7",
+                        "econ" : "2.88",
+                        "4w" : "25",
+                        "5w" : "37"
+                    },
+                    "t20s" : {
+                        "matchs" : "65",
+                        "innings" : "65",
+                        "wicket" : "72",
+                        "balls" : "1452",
+                        "runs" : "1672",
+                        "BB" : "4/8",
+                        "avg" : "23.22",
+                        "sr" : "20.9",
+                        "econ" : "6.90",
+                        "4w" : "2",
+                        "5w" : "0"
+                    },
+                    "ipl" : {
+                        "matchs" : "221",
+                        "innings" : "217",
+                        "wicket" : "187",
+                        "balls" : "4710",
+                        "runs" : "5652",
+                        "BB" : "4/34",
+                        "avg" : "30.22",
+                        "sr" : "25.1",
+                        "econ" : "7.20",
+                        "4w" : "1",
+                        "5w" : "0"
+                    }
+                },
+                "feilding" : {
+                    "odi" : {
+                        "catchs" : "31",
+                        "runOut" : "5",
+                        "stumping" : "0"
+                    },
+                    "test" : {
+                        "catchs" : "36",
+                        "runOut" : "3",
+                        "stumping" : "0"
+                    },
+                    "t20s" : {
+                        "catchs" : "11",
+                        "runOut" : "0",
+                        "stumping" : "0"
+                    },
+                    "ipl" : {
+                        "catchs" : "52",
+                        "runOut" : "9",
+                        "stumping" : "0"
+                    }
+                }
+            }
+
+        },
+        {
+            "id" : "10",
+            "name" : "Hardik Pandya",
+            "fullName" : "Hardik Himanshu Pandya",
+            "age" : "32",
+            "country" : "India",
+            "career" : "2016-",
+            "dob": "11 October 1993, ",
+            "role" : "Allrounder",
+            "battingStyle" : "Right-hand bat",
+            "bowlingStyle" : "Right-arm medium fast",
+            "profileImage" : "https://cdn.magzter.com/Cricket%20Today/1673688515/articles/vM8Uigfef1673785855340/Hardik-Pandya.jpg",
+            "about" : "Hardik Himanshu Pandya (born 11 October 1993) is an Indian international cricketer who plays for the Indian cricket team. He is an all-rounder who is a right-handed middle order batsman and fast-medium bowler. He is considered one of the best all-rounders in the world in white-ball cricket. Pandya is the first fast-bowling all-rounder in T20Is to complete 1,000 runs and 100 wickets. He captains Mumbai Indians in the Indian Premier League and occasionally plays for Baroda in domestic cricket. He has captained the Indian team in white-ball cricket and was the vice captain of the team that won the 2024 T20 World Cup.",
+            "state": {
+                "batting" : {
+                    "odis" : {
+                        "matchs" : "94",
+                        "innings" : "68",
+                        "runs" : "1904",
+                        "ballFaced" : "1717",
+                        "highest" : "92",
+                        "avg" : "32.82",
+                        "sr" : "110.88",
+                        "notOut" : "10",
+                        "fours" : "141",
+                        "sixs" : "76",
+                        "fifty" : "11",
+                        "hundreds" : "0"
+                    },
+                    "tests" : {
+                        "matchs" : "11",
+                        "innings" : "18",
+                        "runs" : "532",
+                        "ballFaced" : "720",
+                        "highest" : "108",
+                        "avg" : "31.29",
+                        "sr" : "72.88",
+                        "notOut" : "1",
+                        "fours" : "68",
+                        "sixs" : "12",
+                        "fifty" : "4",
+                        "hundreds" : "1"
+                    },
+                    "t20s" : {
+                        "matchs" : "127",
+                        "innings" : "98",
+                        "runs" : "2027",
+                        "ballFaced" : "1411",
+                        "highest" : "71",
+                        "avg" : "28.54",
+                        "sr" : "143.65",
+                        "notOut" : "27",
+                        "fours" : "154",
+                        "sixs" : "107",
+                        "fifty" : "7",
+                        "hundreds" : "0"
+                    },
+                    "ipl" : {
+                        "matchs" : "152",
+                        "innings" : "140",
+                        "runs" : "2749",
+                        "ballFaced" : "1871",
+                        "highest" : "91",
+                        "avg" : "28.34",
+                        "sr" : "146.92",
+                        "notOut" : "43",
+                        "fours" : "207",
+                        "sixs" : "148",
+                        "fifty" : "10",
+                        "hundreds" : "0"
+                    }
+                },
+                "bowling" : {
+                    "odis" : {
+                        "matchs" : "94",
+                        "innings" : "88",
+                        "wicket" : "91",
+                        "balls" : "3460",
+                        "runs" : "3231",
+                        "BB" : "4/24",
+                        "avg" : "35.50",
+                        "sr" : "38.0",
+                        "econ" : "5.60",
+                        "4w" : "1",
+                        "5w" : "0"
+                    },
+                    "test" : {
+                        "matchs" : "11",
+                        "innings" : "19",
+                        "wicket" : "17",
+                        "balls" : "937",
+                        "runs" : "528",
+                        "BB" : "5/28",
+                        "avg" : "31.00",
+                        "sr" : "55.7",
+                        "econ" : "3.38",
+                        "4w" : "0",
+                        "5w" : "1"
+                    },
+                    "t20s" : {
+                        "matchs" : "127",
+                        "innings" : "115",
+                        "wicket" : "105",
+                        "balls" : "2015",
+                        "runs" : "2787",
+                        "BB" : "4/16",
+                        "avg" : "26.54",
+                        "sr" : "19.1",
+                        "econ" : "8.29",
+                        "4w" : "3",
+                        "5w" : "0"
+                    },
+                    "ipl" : {
+                        "matchs" : "152",
+                        "innings" : "107",
+                        "wicket" : "78",
+                        "balls" : "1628",
+                        "runs" : "2492",
+                        "BB" : "5/36",
+                        "avg" : "31.94",
+                        "sr" : "20.1",
+                        "econ" : "9.18",
+                        "4w" : "0",
+                        "5w" : "1"
+                    }
+                },
+                "feilding" : {
+                    "odi" : {
+                        "catchs" : "35",
+                        "runOut" : "5",
+                        "stumping" : "0"
+                    },
+                    "test" : {
+                        "catchs" : "7",
+                        "runOut" : "2",
+                        "stumping" : "0"
+                    },
+                    "t20s" : {
+                        "catchs" : "61",
+                        "runOut" : "4",
+                        "stumping" : "0"
+                    },
+                    "ipl" : {
+                        "catchs" : "72",
+                        "runOut" : "11",
+                        "stumping" : "0"
+                    }
+                }
+            }
+
+        },
+        {
+            "id" : "11",
+            "name" : "Kuldeep Yadav",
+            "fullName" : "Kuldeep Yadav",
+            "age" : "31",
+            "country" : "India",
+            "career" : "2014-",
+            "dob": "14 December 1994, Uttar Pradesh",
+            "role" : "Bowler",
+            "battingStyle" : "Left-hand bat",
+            "bowlingStyle" : "Left-arm Wrist spin",
+            "profileImage" : "https://tse3.mm.bing.net/th/id/OIP.PNzGT6XceOhctej6PgBV-gHaIO?pid=Api&P=0&h=180",
+            "about" : "Kuldeep Yadav (born 14 December 1994) is an Indian international cricketer. A left-arm unorthodox spinner, he plays for Uttar Pradesh in domestic cricket and Delhi Capitals in the Indian Premier League. He was an integral member of the Indian team that won the 2024 T20 World Cup and the 2025 Champions Trophy.Yadav has played for the Indian Under-19 cricket team and played in the 2014 U19 Cricket World Cup. On 18 December 2019, against the West Indies, he became the first bowler for India to take two hat-tricks in international cricket.On 17 January 2020, in the second ODI against Australia, Yadav became the fastest spin bowler for India, in terms of innings, to take 100 wickets in ODI cricket, in his 58th innings. He helped his national side to win the 2018 Asia Cup as he took the most wickets during the tournament at 10 along with Rashid Khan and Mustafizur Rahman, and being the highest wicket taker for India. He made his international test debut against Australia in Dharamshala on 25 March 2017.",
+            "state": {
+                "batting" : {
+                    "odis" : {
+                        "matchs" : "120",
+                        "innings" : "44",
+                        "runs" : "212",
+                        "ballFaced" : "411",
+                        "highest" : "19",
+                        "avg" : "9.63",
+                        "sr" : "51.54",
+                        "notOut" : "22",
+                        "fours" : "15",
+                        "sixs" : "0",
+                        "fifty" : "0",
+                        "hundreds" : "0"
+                    },
+                    "tests" : {
+                        "matchs" : "17",
+                        "innings" : "21",
+                        "runs" : "225",
+                        "ballFaced" : "891",
+                        "highest" : "40",
+                        "avg" : "11.84",
+                        "sr" : "25.25",
+                        "notOut" : "2",
+                        "fours" : "22",
+                        "sixs" : "1",
+                        "fifty" : "0",
+                        "hundreds" : "0"
+                    },
+                    "t20s" : {
+                        "matchs" : "52",
+                        "innings" : "9",
+                        "runs" : "47",
+                        "ballFaced" : "68",
+                        "highest" : "23",
+                        "avg" : "9.28",
+                        "sr" : "69.11",
+                        "notOut" : "4",
+                        "fours" : "2",
+                        "sixs" : "0",
+                        "fifty" : "0",
+                        "hundreds" : "0"
+                    },
+                    "ipl" : {
+                        "matchs" : "98",
+                        "innings" : "38",
+                        "runs" : "201",
+                        "ballFaced" : "232",
+                        "highest" : "35",
+                        "avg" : "13.40",
+                        "sr" : "86.63",
+                        "notOut" : "23",
+                        "fours" : "18",
+                        "sixs" : "3",
+                        "fifty" : "0",
+                        "hundreds" : "0"
+                    }
+                },
+                "bowling" : {
+                    "odis" : {
+                        "matchs" : "120",
+                        "innings" : "117",
+                        "wicket" : "194",
+                        "balls" : "6144",
+                        "runs" : "1253",
+                        "BB" : "6/25",
+                        "avg" : "26.20",
+                        "sr" : "31.4",
+                        "econ" : "5.08",
+                        "4w" : "9",
+                        "5w" : "2"
+                    },
+                    "test" : {
+                        "matchs" : "17",
+                        "innings" : "32",
+                        "wicket" : "76",
+                        "balls" : "2893",
+                        "runs" : "1704",
+                        "BB" : "5/40",
+                        "avg" : "22.42",
+                        "sr" : "38.0",
+                        "econ" : "3.53",
+                        "4w" : "4",
+                        "5w" : "5"
+                    },
+                    "t20s" : {
+                        "matchs" : "52",
+                        "innings" : "50",
+                        "wicket" : "92",
+                        "balls" : "1085",
+                        "runs" : "1253",
+                        "BB" : "5/17",
+                        "avg" : "13.61",
+                        "sr" : "11.9",
+                        "econ" : "6.90",
+                        "4w" : "3",
+                        "5w" : "2"
+                    },
+                    "ipl" : {
+                        "matchs" : "98",
+                        "innings" : "95",
+                        "wicket" : "102",
+                        "balls" : "2052",
+                        "runs" : "2749",
+                        "BB" : "4/14",
+                        "avg" : "26.95",
+                        "sr" : "20.1",
+                        "econ" : "8.03",
+                        "4w" : "4",
+                        "5w" : "0"
+                    }
+                },
+                "feilding" : {
+                    "odi" : {
+                        "catchs" : "20",
+                        "runOut" : "2",
+                        "stumping" : "0"
+                    },
+                    "test" : {
+                        "catchs" : "5",
+                        "runOut" : "1",
+                        "stumping" : "0"
+                    },
+                    "t20s" : {
+                        "catchs" : "14",
+                        "runOut" : "2",
+                        "stumping" : "0"
+                    },
+                    "ipl" : {
+                        "catchs" : "20",
+                        "runOut" : "3",
+                        "stumping" : "0"
+                    }
+                }
+            }
+
+        }
+
+    ]
+}
