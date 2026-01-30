@@ -5,16 +5,18 @@
             "id" : "1",
             "name" : "Virat Kohli",
             "fullName" : "Virat Kohli",
-            "height" : "5.9",
+            "height" : "175cm",
+            "age" : "37",
             "country" : "India",
             "career" : "2008-",
             "dob": "05 Nov 1988, Delhi",
             "role" : "Top Order Batter",
             "battingStyle" : "Right-hand bat",
             "bowlingStyle" : "Right-arm medium",
-            "profileImage" : "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Virat_Kohli_in_PMO_New_Delhi.jpg/500px-Virat_Kohli_in_PMO_New_Delhi.jpg",
+            "profileImage" : "https://i.pinimg.com/736x/d3/16/70/d316706bc4e6c2eed3e6f1ce2a8ae29c.jpg",
+            "bgImage": "https://www.wisden.com/static-assets/waf-images/de/2b/9b/16-9/kFwT2IOO6t.jpg",
             "about" : "Virat Kohli (born 5 November 1988) is an Indian international cricketer and the former all-format captain of the Indian national cricket team. He is a right-handed batter and occasional right-arm medium pace bowler. Considered one of the greatest all-format batsmen in the history of cricket, he has been nicknamed the King, the Chase Master, and the Run Machine for his skills, records and ability to lead his team to victory. Kohli has the most centuries in ODIs and the second-most centuries in international cricket with 85 tons across all formats. He is also the leading run-scorer in the Indian Premier League Kohli is the most successful Test captain of India with most wins and 3 consecutive Test mace retainments. He is the only batter to earn 900+ rating points across all 3 formats.",
-            "state": {
+            "stats": {
                 "batting" : {
                     "odis" : {
                         "matchs" : "302",
@@ -84,8 +86,8 @@
                         "avg" : "136.0",
                         "sr" : "132.4",
                         "econ" : "6.16",
-                        "4w" : "0",
-                        "5w" : "0"
+                        "fourWicket" : "0",
+                        "fiveWicket" : "0"
                     },
                     "test" : {
                         "matchs" : "123",
@@ -97,8 +99,8 @@
                         "avg" : "0.0",
                         "sr" : "0.0",
                         "econ" : "2.88",
-                        "4w" : "0",
-                        "5w" : "0"
+                        "fourWicket" : "0",
+                        "fiveWicket" : "0"
                     },
                     "t20s" : {
                         "matchs" : "125",
@@ -110,8 +112,8 @@
                         "avg" : "51.0",
                         "sr" : "38.4",
                         "econ" : "8.05",
-                        "4w" : "0",
-                        "5w" : "0"
+                        "fourWicket" : "0",
+                        "fivwWicket" : "0"
                     },
                     "ipl" : {
                         "matchs" : "267",
@@ -123,8 +125,8 @@
                         "avg" : "92.0",
                         "sr" : "62.74",
                         "econ" : "8.8",
-                        "4w" : "0",
-                        "5w" : "0"
+                        "fourWicket" : "0",
+                        "fiveWicket" : "0"
                     }
                 },
                 "feilding" : {
@@ -150,12 +152,12 @@
                     }
                 }
             }
-
         },
         {
             "id" : "2",
             "name" : "Ajinkya rahane",
             "fullName" : "Ajinkya Madhukar Rahane",
+            "height" : "168cm",
             "age" : "37",
             "country" : "India",
             "career" : "2008-2023",
@@ -163,9 +165,10 @@
             "role" : "Top Order Batter",
             "battingStyle" : "Right-hand bat",
             "bowlingStyle" : "Right-arm medium",
-            "profileImage" : "https://assets.telegraphindia.com/telegraph/2023/Apr/1682402038_ajinkya-rahane.jpg",
+            "profileImage" : "https://wallpapercave.com/wp/wp6710653.jpg",
+            "bgImage" : "https://d16f573ilcot6q.cloudfront.net/wp-content/uploads/2025/01/Ajinkya-Rahane-.webp",
             "about" : "Ajinkya Rahane (born 6 June 1988) is an Indian cricketer and former captain and vice-captain of the Indian cricket team. He currently captains Kolkata Knight Riders in the Indian Premier League. He is the former captain of Mumbai. He plays primarily as a middle-order batsman in the Test format and as a top-order batsman in white-ball forms of the game. India lost only one match under his captaincy.Rahane made his first-class debut in 2007–08 Ranji Trophy season for Mumbai. He made his international debut in a Twenty20 International against England at Manchester in August 2011[1][2] and his Test debut in March 2013 against Australia. His first Test century came at the Basin Reserve, Wellington against New Zealand.[3] Under his captaincy, India won the 2020-21 Border–Gavaskar Trophy in Australia.[4]",
-            "state": {
+            "stats": {
                 "batting" : {
                     "odis" : {
                         "matchs" : "90",
@@ -235,8 +238,8 @@
                         "avg" : "-",
                         "sr" : "-",
                         "econ" : "-",
-                        "4w" : "-",
-                        "5w" : "-"
+                        "fourWicket" : "-",
+                        "fiveWicket" : "-"
                     },
                     "test" : {
                         "matchs" : "85",
@@ -248,8 +251,8 @@
                         "avg" : "-",
                         "sr" : "-",
                         "econ" : "-",
-                        "4w" : "-",
-                        "5w" : "-"
+                        "fourWicket" : "-",
+                        "fiveWicket" : "-"
                     },
                     "t20s" : {
                         "matchs" : "20",
@@ -261,8 +264,8 @@
                         "avg" : "-",
                         "sr" : "-",
                         "econ" : "-",
-                        "4w" : "-",
-                        "5w" : "-"
+                        "fourWicket" : "-",
+                        "fiveWicket":"-"
                     },
                     "ipl" : {
                         "matchs" : "185",
@@ -274,8 +277,8 @@
                         "avg" : "5.00",
                         "sr" : "5.0",
                         "econ" : "5",
-                        "4w" : "0",
-                        "5w" : "0"
+                        "fourWicket" : "0",
+                        "fiveWicket" : "0"
                     }
                 },
                 "feilding" : {
@@ -307,6 +310,7 @@
             "id" : "3",
             "name" : "Kl Rahul",
             "fullName" : "Kannaur Lokesh Rahul",
+            "height" : "180cm",
             "age" : "33",
             "country" : "India",
             "career" : "2014-",
@@ -314,9 +318,10 @@
             "role" : "WicketKeeper Batter",
             "battingStyle" : "Right-hand bat",
             "bowlingStyle" : "Right-arm spin",
-            "profileImage" : "https://documents.bcci.tv/resizedimageskirti/1125_compress.png",
+            "profileImage" : "https://tse4.mm.bing.net/th/id/OIP.2KTjtiIKo8ek1Q444rAF4wHaHa?pid=Api&P=0&h=180",
+            "bgImage" : "https://tse2.mm.bing.net/th/id/OIP.nZGKay_CvX66GSJpkI2UdgHaEK?pid=Api&P=0&h=180",
             "about" : "Kannaur Lokesh Rahul ( born 18 April 1992) is an Indian international cricketer. He plays for the Indian  national team as a right-handed wicket-keeper batter. Rahul represents Karnataka in domestic cricket and Delhi Capitals in the Indian Premier League.Rahul made his international debut in 2014 against Australia in the Boxing Day Test in Melbourne. Two years after his Test debut, Rahul made his One-Day International debut in 2016 against Zimbabwe, where he scored his first century by hitting a six on the last ball to reach 100* (115) from 94 (114), which was also the only six of the entire match. Rahul is the first and only Indian cricketer to score an ODI century on his debut. On the same tour, he made his T20I debut.",
-            "state": {
+            "stats": {
                 "batting" : {
                     "odis" : {
                         "matchs" : "94",
@@ -386,8 +391,8 @@
                         "avg" : "-",
                         "sr" : "-",
                         "econ" : "-",
-                        "4w" : "-",
-                        "5w" : "-"
+                        "fourWicket" : "-",
+                        "fiveWicket" : "-"
                     },
                     "test" : {
                         "matchs" : "67",
@@ -399,8 +404,8 @@
                         "avg" : "-",
                         "sr" : "-",
                         "econ" : "-",
-                        "4w" : "-",
-                        "5w" : "-"
+                        "fourWicket" : "-",
+                        "fiveWicket" : "-"
                     },
                     "t20s" : {
                         "matchs" : "72",
@@ -412,8 +417,8 @@
                         "avg" : "-",
                         "sr" : "-",
                         "econ" : "-",
-                        "4w" : "-",
-                        "5w" : "-"
+                        "fourWicket" : "-",
+                        "fiveWicket" : "-"
                     },
                     "ipl" : {
                         "matchs" : "145",
@@ -425,8 +430,8 @@
                         "avg" : "-",
                         "sr" : "-",
                         "econ" : "-",
-                        "4w" : "-",
-                        "5w" : "-"
+                        "fourWicket" : "-",
+                        "fiveWicket" : "-"
                     }
                 },
                 "feilding" : {
@@ -452,12 +457,12 @@
                     }
                 }
             }
-
         },
         {
             "id" : "4",
             "name" : "Ms Dhoni",
             "fullName" : "Mahendra Singh Dhoni",
+            "height" : "175cm",
             "age" : "44",
             "country" : "India",
             "career" : "2004-2019",
@@ -466,8 +471,9 @@
             "battingStyle" : "Right-hand bat",
             "bowlingStyle" : "Right-arm medium",
             "profileImage" : "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/MS_Dhoni_%28Prabhav_%2723_-_RiGI_2023%29.jpg/500px-MS_Dhoni_%28Prabhav_%2723_-_RiGI_2023%29.jpg",
+            "bgImage" : "https://wallpaperset.com/w/full/8/0/0/465282.jpg",
             "about" : "Mahendra Singh Dhoni (born 7 July 1981) is an Indian professional cricketer who plays as a right-handed batter and a wicket-keeper. Widely regarded as one of the most prolific wicket-keeper batsmen and captains, he represented the Indian cricket team and was the captain of the side in limited overs formats from 2007 to 2017 and in Test cricket from 2008 to 2014. Dhoni has captained the most international matches and is the most successful Indian captain. He has led India to victory in the 2007 ICC World Twenty20, the 2011 Cricket World Cup, and the 2013 ICC Champions Trophy, being the only captain to win three different limited overs ICC tournaments. He also led the teams that won the Asia Cup in 2010 and 2016, and he was a member of the title winning squad in 2018.Born in Ranchi, Dhoni made his first class debut for Bihar in 1999. He made his debut for the Indian cricket team on 23 December 2004 in an ODI against Bangladesh and played his first test a year later against Sri Lanka. In 2007, he became the captain of the ODI side before taking over in all formats by 2008. Dhoni retired from Test cricket in 2014 but continued playing in limited overs cricket till 2019. He has scored 17,266 runs in international cricket including 10,000 plus runs at an average of more than 50 in ODIs.",
-            "state": {
+            "stats": {
                 "batting" : {
                     "odis" : {
                         "matchs" : "350",
@@ -537,8 +543,8 @@
                         "avg" : "31.0",
                         "sr" : "36.0",
                         "econ" : "5.17",
-                        "4w" : "0",
-                        "5w" : "0"
+                        "fourWicket" : "0",
+                        "fiveWicket" : "0"
                     },
                     "test" : {
                         "matchs" : "90",
@@ -550,8 +556,8 @@
                         "avg" : "0.00",
                         "sr" : "0.0",
                         "econ" : "4.19",
-                        "4w" : "-",
-                        "5w" : "-"
+                        "fourWicket" : "-",
+                        "fiveWicket" : "-"
                     },
                     "t20s" : {
                         "matchs" : "90",
@@ -563,8 +569,8 @@
                         "avg" : "-",
                         "sr" : "-",
                         "econ" : "-",
-                        "4w" : "-",
-                        "5w" : "-"
+                        "fourWicket" : "-",
+                        "fiveWicket" : "-"
                     },
                     "ipl" : {
                         "matchs" : "278",
@@ -576,8 +582,8 @@
                         "avg" : "-",
                         "sr" : "-",
                         "econ" : "-",
-                        "4w" : "-",
-                        "5w" : "-"
+                        "fourWicket" : "-",
+                        "fiveWicket" : "-"
                     }
                 },
                 "feilding" : {
@@ -603,12 +609,12 @@
                     }
                 }
             }
-
         },
         {
             "id" : "5",
             "name" : "Rohit Sharma",
             "fullName" : "Rohit Gurunath Sharma",
+            "height": "174cm",
             "age" : "38",
             "country" : "India",
             "career" : "2007-",
@@ -617,8 +623,9 @@
             "battingStyle" : "Right-hand bat",
             "bowlingStyle" : "Right-arm offbreak",
             "profileImage" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Prime_Minister_Of_Bharat_Shri_Narendra_Damodardas_Modi_with_Shri_Rohit_Gurunath_Sharma_%28Cropped%29.jpg/500px-Prime_Minister_Of_Bharat_Shri_Narendra_Damodardas_Modi_with_Shri_Rohit_Gurunath_Sharma_%28Cropped%29.jpg",
+            "bgImage" : "https://tse4.mm.bing.net/th/id/OIP.dfrEuADXOvFJIynklEAoagHaEK?pid=Api&P=0&h=180",
             "about" : "Rohit Gurunath Sharma (born 30 April 1987) is an Indian international cricketer and the former captain of the India national cricket team in all formats of the game. He is a right-handed top-order batter. He represents Mumbai in domestic cricket and Mumbai Indians in the Indian Premier League. Sharma was a member of the teams that won the 2007 T20 World Cup, the 2013 ICC Champions Trophy and was the winning captain of the 2024 T20 World Cup and the 2025 ICC Champions Trophy. Sharma holds several batting records which include most runs in T20 Internationals, most sixes in international cricket, most double centuries in ODI cricket (3), most centuries at Cricket World Cups (7) and joint most hundreds in Twenty20 Internationals (5). He also holds the world record for the highest individual score (264) in a One Day International (ODI) and also holds the record for scoring most hundreds (five) in a single Cricket World Cup, for which he won the ICC Men's ODI Cricketer of the Year award in 2019. He is the first and only captain to lead a team in all[b] ICC tournament finals.",
-            "state": {
+            "stats": {
                 "batting" : {
                     "odis" : {
                         "matchs" : "273",
@@ -688,8 +695,8 @@
                         "avg" : "59.22",
                         "sr" : "67.78",
                         "econ" : "5.24",
-                        "4w" : "0",
-                        "5w" : "0"
+                        "fourWicket" : "0",
+                        "fiveWicket" : "0"
                     },
                     "test" : {
                         "matchs" : "67",
@@ -701,8 +708,8 @@
                         "avg" : "112.0",
                         "sr" : "191.5",
                         "econ" : "3.51",
-                        "4w" : "0",
-                        "5w" : "0"
+                        "fourWicket" : "0",
+                        "fiveWicket" : "0"
                     },
                     "t20s" : {
                         "matchs" : "159",
@@ -714,8 +721,8 @@
                         "avg" : "113.0",
                         "sr" : "68.9",
                         "econ" : "9.97",
-                        "4w" : "0",
-                        "5w" : "0"
+                        "fourWicket" : "0",
+                        "fiveWicket" : "0"
                     },
                     "ipl" : {
                         "matchs" : "272",
@@ -727,8 +734,8 @@
                         "avg" : "30.2",
                         "sr" : "22.3",
                         "econ" : "8.02",
-                        "4w" : "1",
-                        "5w" : "0"
+                        "fourWicket" : "1",
+                        "fiveWicket" : "0"
                     }
                 },
                 "feilding" : {
@@ -754,12 +761,12 @@
                     }
                 }
             }
-
         },
         {
             "id" : "6",
             "name" : "Bhuvneshwar Kumar",
             "fullName" : "Bhuvneshwar Kumar Singh",
+            "height" : "175cm",
             "age" : "35",
             "country" : "India",
             "career" : "2012-2022",
@@ -768,8 +775,9 @@
             "battingStyle" : "Right-hand bat",
             "bowlingStyle" : "Right-arm medium fast",
             "profileImage" : "https://i.ytimg.com/vi/xi_ydCgyWHM/oar2.jpg?sqp=-oaymwEYCNAFENAFSFqQAgHyq4qpAwcIARUAAIhC&rs=AOn4CLBM72_qwtdZsh1aCKC5KMEyP7nm9g",
+            "bgImage" : "https://tse2.mm.bing.net/th/id/OIP.nKGX8xD1BVfXhCGsfKD-gAHaEK?pid=Api&P=0&h=180",
             "about" : "Bhuvneshwar Kumar Singh (born 5 February 1990) is an Indian cricketer who has played for the Indian cricket team in all three formats of the game. He plays for Royal Challengers Bangalore in the Indian Premier League and Uttar Pradesh in domestic cricket. A right-arm medium bowler, he is known for his ability to effectively swing the ball both ways at will. Kumar was a member of the India team that won the 2013 ICC Champions Trophy. He is the first bowler to win the IPL Purple Cap in two consecutive seasons.He made his international debut in December 2012 against Pakistan, taking three wickets in a Twenty20 International (T20I), including one in his first over. He went on to make his One Day International (ODI) debut in the series which followed, where he took a wicket on his first ball. He is the first Indian bowler to take a five-wicket haul in Test cricket, ODIs and T20Is. He is the only bowler whose first wicket in all three formats of the game was bowled. He was named as ICC Men's Player of the Month award for March 2021. During the 2022 Asia Cup, he was the highest wicket taker with 11 wickets.",
-            "state": {
+            "stats": {
                 "batting" : {
                     "odis" : {
                         "matchs" : "121",
@@ -839,8 +847,8 @@
                         "avg" : "35.11",
                         "sr" : "41.4",
                         "econ" : "5.08",
-                        "4w" : "4",
-                        "5w" : "1"
+                        "fourWicket" : "4",
+                        "fiveWicket" : "1"
                     },
                     "test" : {
                         "matchs" : "21",
@@ -852,8 +860,8 @@
                         "avg" : "26.09",
                         "sr" : "53.1",
                         "econ" : "2.94",
-                        "4w" : "3",
-                        "5w" : "4"
+                        "fourWicket" : "3",
+                        "fiveWicket" : "4"
                     },
                     "t20s" : {
                         "matchs" : "87",
@@ -865,8 +873,8 @@
                         "avg" : "23.10",
                         "sr" : "19.9",
                         "econ" : "6.96",
-                        "4w" : "3",
-                        "5w" : "2"
+                        "fourWicket" : "3",
+                        "fiveWicket" : "2"
                     },
                     "ipl" : {
                         "matchs" : "190",
@@ -878,8 +886,8 @@
                         "avg" : "27.33",
                         "sr" : "21.3",
                         "econ" : "7.69",
-                        "4w" : "2",
-                        "5w" : "2"
+                        "fourWicket" : "2",
+                        "fiveWicket" : "2"
                     }
                 },
                 "feilding" : {
@@ -905,12 +913,12 @@
                     }
                 }
             }
-
         },
         {
             "id" : "7",
             "name" : "Jasprit Bumrah",
             "fullName" : "Jasprit jasbirsingh Bumrah",
+            "height": "178cm",
             "age" : "32",
             "country" : "India",
             "career" : "2016-",
@@ -918,9 +926,10 @@
             "role" : "Bowler",
             "battingStyle" : "Right-hand bat",
             "bowlingStyle" : "Right-arm fast",
-            "profileImage" : "https://tse3.mm.bing.net/th/id/OIP.F9zsrq-Oo-ujonQI8QQlRAHaJQ?pid=Api&P=0&h=180",
+            "profileImage" : "https://i.pinimg.com/736x/fa/eb/58/faeb58c2b8434c529ef00810944e7787.jpg",
+            "bgImage" : "https://tse3.mm.bing.net/th/id/OIP.CMRYdc2fSzwEUbl5kp2MRwHaEH?pid=Api&P=0&h=180",
             "about" : "Jasprit Jasbirsingh Bumrah ( born 6 December 1993) is an Indian cricketer who plays for the Indian national team in all three formats of the game and has captained India in Tests and T20Is. He is widely regarded as the world's best active all-format pace bowler, and one of the best fast bowlers of all time. Bumrah is the first bowler to attain the number one ranking in the ICC Men's Player Rankings across all three formats, and the first Indian bowler to take 100 wickets in each format. He represents Gujarat in domestic cricket and Mumbai Indians in the Indian Premier League. Among Indian fast bowlers, he's the fastest to 200 Test wickets and the second fastest to 100 ODI wickets. He was a crucial member of the Indian team that won the 2024 T20 World Cup, where he was named the Player of the Tournament for taking 15 wickets with an average economy of 4.17.",
-            "state": {
+            "stats": {
                 "batting" : {
                     "odis" : {
                         "matchs" : "89",
@@ -990,8 +999,8 @@
                         "avg" : "23.55",
                         "sr" : "30.7",
                         "econ" : "4.59",
-                        "4w" : "6",
-                        "5w" : "2"
+                        "fourWicket" : "6",
+                        "fiveWicket" : "2"
                     },
                     "test" : {
                         "matchs" : "52",
@@ -1003,8 +1012,8 @@
                         "avg" : "19.79",
                         "sr" : "42.4",
                         "econ" : "2.77",
-                        "4w" : "7",
-                        "5w" : "16"
+                        "fourWicket" : "7",
+                        "fiveWicket" : "16"
                     },
                     "t20s" : {
                         "matchs" : "85",
@@ -1016,8 +1025,8 @@
                         "avg" : "21.10",
                         "sr" : "16.9",
                         "econ" : "6.40",
-                        "4w" : "0",
-                        "5w" : "0"
+                        "fourWicket" : "0",
+                        "fiveWicket" : "0"
                     },
                     "ipl" : {
                         "matchs" : "145",
@@ -1029,8 +1038,8 @@
                         "avg" : "22.02",
                         "sr" : "18.3",
                         "econ" : "7.24",
-                        "4w" : "3",
-                        "5w" : "2"
+                        "fourWicket" : "3",
+                        "fiveWicket" : "2"
                     }
                 },
                 "feilding" : {
@@ -1056,12 +1065,12 @@
                     }
                 }
             }
-
         },
         {
             "id" : "8",
             "name" : "Ravindra Jadeja",
             "fullName" : "Ravindrasinh Anirudhsinh Jadeja",
+            "height" : "173cm",
             "age" : "37",
             "country" : "India",
             "career" : "2009-",
@@ -1069,9 +1078,10 @@
             "role" : "Allrounder",
             "battingStyle" : "Left-hand bat",
             "bowlingStyle" : "slow Left-arm Orthodox",
-            "profileImage" : "https://thefederal.com/h-upload/2024/01/28/428348-ravindra-jadeja-india-vs-england.webp",
+            "profileImage" : "https://tse4.mm.bing.net/th/id/OIP.yxHangqka73AX_HIIL9mvwHaJQ?pid=Api&P=0&h=180",
+            "bgImage" : "https://tse4.mm.bing.net/th/id/OIP.lZ_LIcwzK9yOm3G4Nxrq4wHaFC?pid=Api&P=0&h=180",
             "about" : "Ravindrasinh Anirudhsinh Jadeja (born 6 December 1988) is an Indian cricketer who represents the India national team currently in ODI and Test formats. He is an all-rounder, who bats left-handed and bowls left-arm orthodox spin. He is widely regarded as one of the greatest all-rounders and among the finest fielders of his generation. He represents Saurashtra in domestic cricket and Rajasthan Royals in the Indian Premier League. Jadeja was a crucial member of the Indian teams that won the 2013 and 2025 ICC Champions Trophy, becoming leading wicket-taker and player of the final in the former and hitting the winning boundary in the latter final. He was also a part of the Indian squad that won the 2024 ICC T20 World Cup, after which he announced his retirement from T20Is.Jadeja was vice-captain of the Indian U-19 cricket team that won the World Cup in Malaysia in 2008, under the captaincy of former Indian captain Virat Kohli. He made his ODI debut against Sri Lanka on 8 February 2009 and scored an unbeaten 60 off 77 balls in that match. However, his Test debut came almost four years later, on 13 December 2012, against England at Nagpur.",
-            "state": {
+            "stats": {
                 "batting" : {
                     "odis" : {
                         "matchs" : "210",
@@ -1141,8 +1151,8 @@
                         "avg" : "36.55",
                         "sr" : "44.7",
                         "econ" : "4.88",
-                        "4w" : "7",
-                        "5w" : "2"
+                        "fourWicket" : "7",
+                        "fiveWicket" : "2"
                     },
                     "test" : {
                         "matchs" : "89",
@@ -1154,8 +1164,8 @@
                         "avg" : "25.11",
                         "sr" : "58.1",
                         "econ" : "2.59",
-                        "4w" : "17",
-                        "5w" : "15"
+                        "fourWicket" : "17",
+                        "fiveWicket" : "15"
                     },
                     "t20s" : {
                         "matchs" : "74",
@@ -1167,8 +1177,8 @@
                         "avg" : "29.10",
                         "sr" : "25.9",
                         "econ" : "7.13",
-                        "4w" : "0",
-                        "5w" : "0"
+                        "fourWicket" : "0",
+                        "fiveWicket" : "0"
                     },
                     "ipl" : {
                         "matchs" : "254",
@@ -1180,8 +1190,8 @@
                         "avg" : "30.51",
                         "sr" : "23.8",
                         "econ" : "7.67",
-                        "4w" : "3",
-                        "5w" : "1"
+                        "fourWicket" : "3",
+                        "fiveWicket" : "1"
                     }
                 },
                 "feilding" : {
@@ -1213,6 +1223,7 @@
             "id" : "9",
             "name" : "Ravichandran Ashwin",
             "fullName" : "Ravichandran Ashwin",
+            "height": "188cm",
             "age" : "39",
             "country" : "India",
             "career" : "2010-2024",
@@ -1220,9 +1231,10 @@
             "role" : "Allrounder",
             "battingStyle" : "Right-hand bat",
             "bowlingStyle" : "Right-arm offbreak",
-            "profileImage" : "https://api.bdcrictime.com/ravichandran-ashwin-03_01_2022.jpg",
+            "profileImage" : "https://i.pinimg.com/736x/02/bc/b5/02bcb5b8940f84037509b4f801f05f31.jpg",
+            "bgImage" : "https://tse2.mm.bing.net/th/id/OIP.j7Tb6_rZwNCohsdraaZKBQHaFj?pid=Api&P=0&h=180",
             "about" : "Ravichandran Ashwin (born 17 September 1986) is an Indian cricketer. He is a right-arm off spin bowler and a lower order batter. Widely regarded as one of the most prolific spinners of all time, he represented the Indian cricket team and was part of the Indian team that won the 2011 Cricket World Cup and the 2013 Champions Trophy. He represented Tamil Nadu and South Zone in domestic cricket.Ashwin has taken more than 500 wickets in Tests and was the fastest bowler to reach 300 test wickets in terms of number of innings. He has won eleven Man of the Series awards in Tests, which is the most for any cricketer, along with Muttiah Muralitharan. As an all-rounder in Test cricket, he bats down the order, has scored six Test centuries and is one of the only three players to have scored 3000 runs and taken 500 wickets in Tests. He had been the highest-ranked bowler in the ICC men's player rankings multiple times, and holds the record for the second highest rating points by an Indian bowler ever in Test cricket.",
-            "state": {
+            "stats": {
                 "batting" : {
                     "odis" : {
                         "matchs" : "116",
@@ -1292,8 +1304,8 @@
                         "avg" : "33.20",
                         "sr" : "40.4",
                         "econ" : "4.93",
-                        "4w" : "1",
-                        "5w" : "0"
+                        "fourWicket" : "1",
+                        "fiveWicket" : "0"
                     },
                     "test" : {
                         "matchs" : "106",
@@ -1305,8 +1317,8 @@
                         "avg" : "24.00",
                         "sr" : "50.7",
                         "econ" : "2.88",
-                        "4w" : "25",
-                        "5w" : "37"
+                        "fourWicket" : "25",
+                        "fiveWicket" : "37"
                     },
                     "t20s" : {
                         "matchs" : "65",
@@ -1318,8 +1330,8 @@
                         "avg" : "23.22",
                         "sr" : "20.9",
                         "econ" : "6.90",
-                        "4w" : "2",
-                        "5w" : "0"
+                        "fourWicket" : "2",
+                        "fiveWicket" : "0"
                     },
                     "ipl" : {
                         "matchs" : "221",
@@ -1331,8 +1343,8 @@
                         "avg" : "30.22",
                         "sr" : "25.1",
                         "econ" : "7.20",
-                        "4w" : "1",
-                        "5w" : "0"
+                        "fourWicket" : "1",
+                        "fiveWicket" : "0"
                     }
                 },
                 "feilding" : {
@@ -1364,6 +1376,7 @@
             "id" : "10",
             "name" : "Hardik Pandya",
             "fullName" : "Hardik Himanshu Pandya",
+            "height" : "183cm",
             "age" : "32",
             "country" : "India",
             "career" : "2016-",
@@ -1372,8 +1385,9 @@
             "battingStyle" : "Right-hand bat",
             "bowlingStyle" : "Right-arm medium fast",
             "profileImage" : "https://cdn.magzter.com/Cricket%20Today/1673688515/articles/vM8Uigfef1673785855340/Hardik-Pandya.jpg",
+            "bgImage" : "https://wallpaperbat.com/img/9747023-hardik-pandya-odi-photo-and-editorial.jpg",
             "about" : "Hardik Himanshu Pandya (born 11 October 1993) is an Indian international cricketer who plays for the Indian cricket team. He is an all-rounder who is a right-handed middle order batsman and fast-medium bowler. He is considered one of the best all-rounders in the world in white-ball cricket. Pandya is the first fast-bowling all-rounder in T20Is to complete 1,000 runs and 100 wickets. He captains Mumbai Indians in the Indian Premier League and occasionally plays for Baroda in domestic cricket. He has captained the Indian team in white-ball cricket and was the vice captain of the team that won the 2024 T20 World Cup.",
-            "state": {
+            "stats": {
                 "batting" : {
                     "odis" : {
                         "matchs" : "94",
@@ -1443,8 +1457,8 @@
                         "avg" : "35.50",
                         "sr" : "38.0",
                         "econ" : "5.60",
-                        "4w" : "1",
-                        "5w" : "0"
+                        "fourWicket" : "1",
+                        "fiveWicket" : "0"
                     },
                     "test" : {
                         "matchs" : "11",
@@ -1456,8 +1470,8 @@
                         "avg" : "31.00",
                         "sr" : "55.7",
                         "econ" : "3.38",
-                        "4w" : "0",
-                        "5w" : "1"
+                        "fourWicket" : "0",
+                        "fiveWicket" : "1"
                     },
                     "t20s" : {
                         "matchs" : "127",
@@ -1469,8 +1483,8 @@
                         "avg" : "26.54",
                         "sr" : "19.1",
                         "econ" : "8.29",
-                        "4w" : "3",
-                        "5w" : "0"
+                        "fourWicket" : "3",
+                        "fiveWicket" : "0"
                     },
                     "ipl" : {
                         "matchs" : "152",
@@ -1482,8 +1496,8 @@
                         "avg" : "31.94",
                         "sr" : "20.1",
                         "econ" : "9.18",
-                        "4w" : "0",
-                        "5w" : "1"
+                        "fourWicket" : "0",
+                        "fiveWicket" : "1"
                     }
                 },
                 "feilding" : {
@@ -1515,6 +1529,7 @@
             "id" : "11",
             "name" : "Kuldeep Yadav",
             "fullName" : "Kuldeep Yadav",
+            "height" : "168cm",
             "age" : "31",
             "country" : "India",
             "career" : "2014-",
@@ -1523,8 +1538,9 @@
             "battingStyle" : "Left-hand bat",
             "bowlingStyle" : "Left-arm Wrist spin",
             "profileImage" : "https://tse3.mm.bing.net/th/id/OIP.PNzGT6XceOhctej6PgBV-gHaIO?pid=Api&P=0&h=180",
+            "bgImage" : "https://d16f573ilcot6q.cloudfront.net/wp-content/uploads/2024/09/Kuldeep-Yadav-test-bowling-e1725682871906.webp",
             "about" : "Kuldeep Yadav (born 14 December 1994) is an Indian international cricketer. A left-arm unorthodox spinner, he plays for Uttar Pradesh in domestic cricket and Delhi Capitals in the Indian Premier League. He was an integral member of the Indian team that won the 2024 T20 World Cup and the 2025 Champions Trophy.Yadav has played for the Indian Under-19 cricket team and played in the 2014 U19 Cricket World Cup. On 18 December 2019, against the West Indies, he became the first bowler for India to take two hat-tricks in international cricket.On 17 January 2020, in the second ODI against Australia, Yadav became the fastest spin bowler for India, in terms of innings, to take 100 wickets in ODI cricket, in his 58th innings. He helped his national side to win the 2018 Asia Cup as he took the most wickets during the tournament at 10 along with Rashid Khan and Mustafizur Rahman, and being the highest wicket taker for India. He made his international test debut against Australia in Dharamshala on 25 March 2017.",
-            "state": {
+            "stats": {
                 "batting" : {
                     "odis" : {
                         "matchs" : "120",
@@ -1594,8 +1610,8 @@
                         "avg" : "26.20",
                         "sr" : "31.4",
                         "econ" : "5.08",
-                        "4w" : "9",
-                        "5w" : "2"
+                        "fourWicket" : "9",
+                        "fiveWicket" : "2"
                     },
                     "test" : {
                         "matchs" : "17",
@@ -1607,8 +1623,8 @@
                         "avg" : "22.42",
                         "sr" : "38.0",
                         "econ" : "3.53",
-                        "4w" : "4",
-                        "5w" : "5"
+                        "fourWicket" : "4",
+                        "fiveWicket" : "5"
                     },
                     "t20s" : {
                         "matchs" : "52",
@@ -1620,8 +1636,8 @@
                         "avg" : "13.61",
                         "sr" : "11.9",
                         "econ" : "6.90",
-                        "4w" : "3",
-                        "5w" : "2"
+                        "fourWicket" : "3",
+                        "fiveWicket" : "2"
                     },
                     "ipl" : {
                         "matchs" : "98",
@@ -1633,8 +1649,8 @@
                         "avg" : "26.95",
                         "sr" : "20.1",
                         "econ" : "8.03",
-                        "4w" : "4",
-                        "5w" : "0"
+                        "fourWicket" : "4",
+                        "fiveWicket" : "0"
                     }
                 },
                 "feilding" : {
